@@ -4,7 +4,7 @@ Atualmente aprimorando meus conhecimentos na área de desenvolvimento!
 
 Formado em ADS.
 
-Meu foco atual esta em Back-end
+Meu foco atual esta em Back-end.
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Netokokay&show_icons=true&theme=highcontrast"/>

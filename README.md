@@ -31,4 +31,7 @@ Meu foco atual esta em Back-end.
 <img align="center" alt="netao-vscode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="center" alt="netao-javascript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="netao-java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="center" alt="netao-express" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+<img align="center" alt="netao-typescript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="center" alt="netao-postgresql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>

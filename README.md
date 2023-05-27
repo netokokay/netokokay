@@ -4,8 +4,6 @@ Atualmente aprimorando meus conhecimentos na área de desenvolvimento!
 
 Formado em ADS.
 
-Meu foco atual esta em Back-end.
-
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Netokokay&show_icons=true&theme=highcontrast"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netokokay&layout=compact&theme=highcontrast"/>
@@ -34,4 +32,6 @@ Meu foco atual esta em Back-end.
 <img align="center" alt="netao-express" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 <img align="center" alt="netao-typescript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="center" alt="netao-postgresql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="center" alt="netao-html" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img align="center" alt="netao-css" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
